@@ -3,5 +3,8 @@
 
 ## run it locally
 ```
-npm start
+> npm install
+```
+```
+> npm start
 ```
