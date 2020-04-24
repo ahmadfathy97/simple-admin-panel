@@ -1,0 +1,8 @@
+.nav-bar{
+  width: 100% !important; 
+}
+a.active{
+  background: #0080ff;
+  padding: 5px;
+  border-radius: 5px;
+}
